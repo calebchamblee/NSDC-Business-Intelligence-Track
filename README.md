@@ -1,4 +1,4 @@
-# NSDC-Sports-Analytics-Track
+# NSDC-Business-Intelligence-Track
 NBA injury prediction and cricket match prediction in the sports analytics track for Tufts NSDC spring 2026.
 
 **NBA Project Overview:**
