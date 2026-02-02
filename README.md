@@ -1,10 +1,6 @@
 # NSDC-Business-Intelligence-Track
-NBA injury prediction and cricket match prediction in the sports analytics track for Tufts NSDC spring 2026.
+Predicting sales data for cars (intro-level) and *possibly* houses (more advanced). This track will be data-viz intensive with some optional ML.
+**Project Overview:**
+Explore what factors influence car sale prices using a clean, beginner-friendly dataset. The project is visualization-first, with optional linear regression to quantify relationships.
 
-**NBA Project Overview:**
-
-This project explores how player characteristics and in-game workload relate to injury risk in the NBA. Using player demographic data, game exposure, and contextual features, we aim to understand which factors are most strongly associated with injuries.
-
-**Cricket Project Overview:**
-
-Analyze match-level cricket data to understand which contextual factors (teams, venue, toss, season, etc.) are associated with winning a match. The project is BI-first, with light, interpretable ML.
+Car sales data including numerical features (e.g. mileage, engine size, year) and categorical features (e.g. car type, fuel type, transmission). Well-suited for Excel and Tableau dashboards.
